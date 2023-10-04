@@ -21,7 +21,7 @@ Node must be installed, as well as MYSQL2, sequilizer, bcrypt, dotenv, connect-s
 
 ## Usage
 
-Initiate the app with npm start in the command line. A link to deployed site is here:
+Initiate the app with npm start in the command line. A link to deployed site is here: https://techbloggerapp-d829c504c152.herokuapp.com/![Alt text](<Screenshot 2023-10-03 at 10.56.03 PM.png>)
 
 ## License
 
